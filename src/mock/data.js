@@ -28,30 +28,32 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'hero.png',
+    title: 'Heroes of the Sky',
+    info: 'A multiplier jet fighter game displayed on the command line.',
+    info2: 'Built with Ruby and a unique Ruby Gem Gosu for graphics and movement of each player. Created two instances allowing two players to appear on the screen. Adjusted each instance’s X and Y movement as well as individual keys to be able to shoot and move. ',
+    url: 'https://www.youtube.com/watch?v=kewv-g4Qtio&feature=youtu.be',
+    repo: 'https://github.com/dashdavid13/ruby-project-alt-guidelines', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'ace.png',
+    title: 'ACE',
+    info: 'A fitness app, that provides a user with a workout plan and dietary lifestyle based on their choice of goal.',
+    info2: 'Built with Ruby on Rails. Implemented sessions and cookies for authorization and authentication of a user. Calculated user’s caloric intake and water intake based on their criteria.',
+    url: 'https://www.youtube.com/watch?v=e2vLkFrQrsc&feature=youtu.be',
+    repo: 'https://github.com/dashdavid13/ACE', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'budex.png',
+    title: 'Budex',
+    info: 'Finance app where a user can create and keep track of current bills. ',
+    info2: 'Built with Ruby on Rails backend as an API and the frontend was built with JavaScript React. Taught and implemented an artificial intelligence IBM Cloud Chatbot, which helped users navigate throughout the application. Added and retrieved a token from local storage to wallow authorization and authentication of a user.',
+    url: 'https://www.youtube.com/watch?v=rtyhTxqrI-o',
+    repo: 'https://github.com/dashdavid13/BudEx-backend',
+    repo: 'https://github.com/dashdavid13/BudEx-frontend'
+     // if no repo, the button will not show up
   },
 ];
 
