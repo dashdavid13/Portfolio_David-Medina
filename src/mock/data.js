@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I am a Software Engineer with experience in Frontend Development, Customer Service, Event Planning and Management. A recent graduate from Flatiron School, a NYC bootcamp. I am passionate about helping build a better future and creating innovations through technology that will empower my community.',
   paragraphTwo: ' My experience ranges from user interface projects to backend web technologies, and exposure to knowledge of architecture concepts. I pride myself in being creative, a curious learner, easily adaptable to changes in a fast-growing environment, and passionate about my ideas. My past experience hones on my ability to have effective communication skills through various years of customer facing roles and dedication to the Brazilian Jiu Jitsu martial art.',
   paragraphThree: 'Relentlessly pursuing my passion to create solutions and solve problems. ',
-  resume: 'https://docs.google.com/document/d/1s04Gi2KJ3SVVd8r15Tgn7A8FDNoyyfOKFoU4Zc4F7Q8/edit?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1B7X-VNp3yNGlTztUMSQM91hksDqBZ4dO/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
